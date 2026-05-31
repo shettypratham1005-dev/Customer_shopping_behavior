@@ -354,8 +354,7 @@ Offer incentives for preferred payment methods to improve customer experience.
 ---
 
 # 📸 Dashboard Preview
-
-![Customer Shopping Behavior Dashboard](<img width="1636" height="1500" alt="customer_shopping_dashboard_landscape" src="https://github.com/user-attachments/assets/e66fb35a-040c-4e8e-91d2-7d73f5d33cd9" />
+(<img width="1636" height="1500" alt="customer_shopping_dashboard_landscape" src="https://github.com/user-attachments/assets/e66fb35a-040c-4e8e-91d2-7d73f5d33cd9" />
 .png)
 
 ---
